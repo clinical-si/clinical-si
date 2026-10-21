@@ -13,7 +13,7 @@ isn't sure about goes to a person.
 
 ## Papers
 
-- *The model reads, the code decides:* a pre-registered test of a small-model colorectal screening assistant on
+- *A pre-registered test of a small-model colorectal screening assistant on
   synthetic charts. Working paper, October 2026. **Paper and code coming soon.**
 
 All patient data in this work are synthetic. Nothing here is clinically validated.
